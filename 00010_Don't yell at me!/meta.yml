@@ -11,5 +11,5 @@ progressive_expectations: false
 choices: []
 goal: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   kind: last_query_outputs
-  output: "'NECESITO MAYÚSCULAS MÁS GRANDES'"
-name: "¡A mí no me grités!"
+  output: "'I NEED LARGER CAPS'"
+name: Don't yell at me!

@@ -1,6 +1,6 @@
 ---
-name: "¡Hola Python!"
-locale: es
+name: "Hello Python!"
+locale: en
 type: learning
 beta: false
 teacher_info: ''

@@ -12,4 +12,4 @@ choices: []
 goal: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   kind: last_query_outputs
   output: '7'
-name: No todo es un chirimbolo
+name: Not everything is a symbol

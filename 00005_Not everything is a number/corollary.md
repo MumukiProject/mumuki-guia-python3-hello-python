@@ -1,0 +1,1 @@
+As you can see, these operators do not return numbers but `True` or `False`. This new data type is called _boolean_, and represents a _truth value_. Let's go to the next exercise to learn about another type. :sunglasses:

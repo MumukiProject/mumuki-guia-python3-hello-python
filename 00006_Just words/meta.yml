@@ -1,5 +1,5 @@
 ---
-locale: en
+locale: es
 tags: []
 layout: input_bottom
 editor: 0
@@ -11,5 +11,5 @@ progressive_expectations: false
 choices: []
 goal: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   kind: last_query_outputs
-  output: "'Mariposa'"
-name: Palabras, solo palabras
+  output: "'I need 5'"
+name: Just words

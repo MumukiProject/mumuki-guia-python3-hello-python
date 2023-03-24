@@ -1,4 +1,4 @@
-As we just saw in Python we can multiply :heavy_multiplication_x:, divide :heavy_division_sign:, :heavy_plus_sign: and subtract :heavy_minus_sign:. In programming, these symbols are called _operators_ and are written slightly differently:
+As we just saw in Python we can multiply :heavy_multiplication_x:, divide :heavy_division_sign:, add :heavy_plus_sign: and subtract :heavy_minus_sign:. In programming, these symbols are called _operators_ and are written slightly differently:
 
 | Operation      | Operator | Example  |
 |----------------|----------|----------|

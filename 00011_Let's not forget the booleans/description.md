@@ -2,7 +2,7 @@ We have already tested operations with numbers and strings, can the booleans be 
 
 Yeah! One of the most common operations is the logical conjunction, also called _logical AND_ or simply `and`. :relieved:
 
- > Try the following in the console:
+ > Try the following expressions in the console:
 >
 >``` python
 ムlen("green") == len("black") and len("hello") == len("bye")

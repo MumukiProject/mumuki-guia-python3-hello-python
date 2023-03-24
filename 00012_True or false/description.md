@@ -1,4 +1,4 @@
-Another well-known logical operator is the `or` which is used to perform logical disjunctions. The _logical OR_ has its differences from the `and` - can you spot them? :hugging:
+Another well-known logical operator is the `or` which is used to perform _logical disjunctions_. The _logical OR_ has its differences from the `and` - can you spot them? :hugging:
 
 > Try out the following expressions in the console:
 >

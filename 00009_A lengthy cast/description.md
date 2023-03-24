@@ -1,7 +1,7 @@
-We're often interested in knowing the length of a string, or in other words, how many characters it has :straight_ruler:. For this `len` will help us. :star_struck:
+Often we're interested in knowing the length of a string, or in other words, how many characters it has :straight_ruler:. Here is where `len` will help us. :star_struck:
 
-> Let's see how it works in the console by testing it:
- >
+> Let's see how it works by testing it in the console:
+>
 >``` python
 ムlen('Friends')
 ```

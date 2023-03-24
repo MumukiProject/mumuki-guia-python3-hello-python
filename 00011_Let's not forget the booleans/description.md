@@ -1,6 +1,6 @@
 We have already tested operations with numbers and strings, can the booleans be operated on, too? :thought_balloon:
 
-Yeah! One of the most common operations is the logical conjunction, "logical AND" or simply `and`. :relieved:
+Yeah! One of the most common operations is the logical conjunction, also called _logical AND_ or simply `and`. :relieved:
 
  > Try the following in the console:
 >

@@ -20,6 +20,5 @@ Unlike the operators we've seen so far, these work a little differently. We spec
 ムmin(8, 7)
 ```
 
-> What will happen if we try `abs` with a positive number? Will `round(4.6)` return the same thing as `round(4.6)`?
->
+> What will happen if we try `abs` with a positive number? Will `round(4.6)` return the same thing as `round(4.6)`? 
 > If you can't figure out what each value does, you can try other values.

@@ -1,6 +1,6 @@
 Did you find the differences? :nerd:
 
-We said that `and` only returns `True` when both booleans are `True`. On the other hand, for `or` to be true it is sufficient that at least one of the booleans is true. Put another way, both conditions must be false for it to return `False`. For example in...
+We said that `and` only returns `True` when both booleans are `True`. On the other hand, for `or` to be true it is sufficient that at least one of the booleans is true. Put another way, both conditions must be `False` for it to return `False`. For example in...
 
 ``` python
 ムstr.upper("mumuki") == "Mumuki" or "love" in "romance"

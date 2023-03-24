@@ -1,10 +1,10 @@
 As we have just seen, in Python there are numbers, boolean values and strings:
 
-| Data type | It represents	| Example           | Operations	                         |
-|-----------|---------------|-------------------|--------------------------------------|
-|Numbers	  | amounts	      | `4947`            | `+`, `-`, `*`, `/`, `<`, etc .       |
-|Booleans  	| truth values	| `True`            | `and`, `or`, etc.                    |
-|Strings    | text	        | `"hello Python!"` | `str.upper`, `str.startswith`, `len` |
+| Data type | It represents	| Example           | Operations	                               |
+|-----------|---------------|-------------------|--------------------------------------------|
+|Numbers	  | amounts	      | `4947`            | `+`, `-`, `*`, `/`, `<`, etc.              |
+|Booleans  	| truth values	| `True`            | `and`, `or`, etc.                          |
+|Strings    | text	        | `"hello Python!"` | `str.upper`, `str.startswith`, `len`, etc. |
 
 
 In addition, there are operations that work for all _data types_, for example:

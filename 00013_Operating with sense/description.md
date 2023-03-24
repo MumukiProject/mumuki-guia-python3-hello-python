@@ -9,8 +9,8 @@ As we have just seen, in Python there are numbers, boolean values and strings:
 
 In addition, there are operations that work for all _data types_, for example:
 
-* `==`: tells us if two things are equal;
-* `!=`: tells us if two things are different.
+* `==`: tells us if two values are equal;
+* `!=`: tells us if two values are different.
 
 **It's important to use the right operations with the right data types**, e.g. it doesn't make sense to add two boolean values or do boolean operations with numbers. **If you use operations that don't match, very strange and bad things can happen**. :confused:
 

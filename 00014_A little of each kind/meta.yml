@@ -20,15 +20,15 @@ choices:
   value: '`4 + 4` equals `"44"`'
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: '`"twen" + "ty"` vale `"twenty`'
+  value: '`"twen" + "ty"` equals `"twenty`'
   checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: "`True and False` vale `False`"
+  value: "`True and False` equals `False`"
   checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: "`True and False` vale `0`"
+  value: "`True and False` equals `0`"
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: "`5 >= 6` value `False`"
+  value: "`5 >= 6` equals `False`"
   checked: true
 name: A little of each kind

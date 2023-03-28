@@ -20,7 +20,7 @@ choices:
   value: '`4 + 4` equals `"44"`'
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: '`"on" + "this"` vale `"onthis"`'
+  value: '`"twen" + "ty"` vale `"twenty`'
   checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   value: "`True and False` vale `False`"

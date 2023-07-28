@@ -9,7 +9,7 @@ teacher_info: ''
 manual_evaluation: false
 progressive_expectations: false
 choices: []
-goal: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+goal:
   kind: last_query_matches
   regexp: str.startswith(\W*"butterfly"\W*,\W*"butter"\W*)\W+and\W+str.endswith(\W*"butterfly"\W*,\W*"fly"\W*)
 name: Let's not forget the booleans

@@ -10,25 +10,18 @@ teacher_info: ''
 manual_evaluation: false
 progressive_expectations: false
 choices:
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: "`4 + 4` equals `8`"
+- value: "`4 + 4` equals `8`"
   checked: true
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: '`"4" + "4"` equals `"44"`'
+- value: '`"4" + "4"` equals `"44"`'
   checked: true
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: '`4 + 4` equals `"44"`'
+- value: '`4 + 4` equals `"44"`'
   checked: false
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: '`"twen" + "ty"` equals `"twenty`'
+- value: '`"twen" + "ty"` equals `"twenty`'
   checked: true
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: "`True and False` equals `False`"
+- value: "`True and False` equals `False`"
   checked: true
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: "`True and False` equals `0`"
+- value: "`True and False` equals `0`"
   checked: false
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: "`5 >= 6` equals `False`"
+- value: "`5 >= 6` equals `False`"
   checked: true
 name: A little of each kind
